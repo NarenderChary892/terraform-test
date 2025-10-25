@@ -5,3 +5,4 @@ resource "aws_instance" "myec4" {
     tags = {
         Name = "DemoServer"
     }
+}
